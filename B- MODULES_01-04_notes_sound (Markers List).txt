@@ -4,7 +4,7 @@ jMODULES_01-04_notes_sound	Sequence	SFX	Gun Shot i 5.1 vore fett	21:09:24;05	00:
 MODULES_01-04_notes_sound	Sequence	SFX	Swosh left to right channel 	21:09:26;13	00:00:00;00	Red
 MODULES_01-04_notes_sound	Sequence	Sound Design	breath i 5.1	21:09:32;08	00:00:00;00	Red
 MODULES_01-04_notes_sound	Sequence	Sound Design	Swosh until it hits the road sign 	21:09:41;02	00:00:00;00	Red
-MODULES_01-04_notes_sound	Sequence	SFX	Gun Shot i 5.1 och kanske nagot ljud efter det	21:09:41;29	00:00:00;00	Red
+.MODULES_01-04_notes_sound	Sequence	SFX	Gun Shot i 5.1 och kanske nagot ljud efter det	21:09:41;29	00:00:00;00	Red
 MODULES_01-04_notes_sound	Sequence	Sound Design	5.1 on the 3 gun shots	21:10:02;08	00:00:00;00	Red
 MODULES_01-04_notes_sound	Sequence	Sound Suggestion	Gate opens - beef it up w a cool door open sound w  LFE	21:10:15;10	00:00:00;00	Orange
 MODULES_01-04_notes_sound	Sequence	Sound Suggestion	Beef up rewind sound cut out sound for a few frames	21:14:43;01	00:00:00;00	Orange
